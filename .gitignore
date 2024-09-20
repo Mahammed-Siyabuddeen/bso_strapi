@@ -81,7 +81,7 @@ ssl
 .idea
 nbproject
 
-!public/uploads/.gitkeep
+
 
 ############################
 # Node.js
